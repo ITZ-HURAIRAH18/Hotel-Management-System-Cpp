@@ -93,13 +93,9 @@ Follow these steps to get the Hotel Management System up and running on your loc
 
 ---
 
-## 📄 License (Optional)
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
----
-
-## 📧 Contact (Optional)
+## 📧 Contact 
 
 Your Name - muhammadabuhurairah558@gmail.com
 
